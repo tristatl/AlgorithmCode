@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508416671 source:d:\document\codeblocks\chefandagreatvoluntaryprogram\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+	<algorithm>
+	<cmath>
+	<map>
+
