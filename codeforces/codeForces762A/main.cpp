@@ -2,6 +2,7 @@
 name : tangli
 time : 2017/11/1
 problem : cf762A k-division
+explanation: 因子都是成对出现的，所以总共只有2*sqrt(n)个因子，循环1-sqrt(n)，设因子为i和n/i，可以放入vector中，然后排序
 */
 #include <iostream>
 #include <cstdio>

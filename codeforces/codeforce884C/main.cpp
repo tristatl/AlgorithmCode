@@ -2,6 +2,7 @@
 name : tangli
 time : 2017/11/1
 problem : cf884C
+explanation :
 */
 #include <iostream>
 #include <cstdio>
@@ -25,7 +26,7 @@ const ll mod = 1000000000+7;
 const int N = 100000+5;
 int nex[N];
 int vis[N];
-vector<ll>v;
+vector<ll>v;  //注意用long long ,因为中间计算过程会溢出line67
 int dfs(int s)
 {
     int p = nex[s];
