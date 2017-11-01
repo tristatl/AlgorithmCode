@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1509543591 source:d:\document\codeblocks\codeforces762a\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<vector>
+	<map>
+	<string>
+	<cstring>
+	<map>
+	<set>
+
